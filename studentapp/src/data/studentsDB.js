@@ -1,3 +1,4 @@
+
 export const students = [
     { studentId: 'UOV15651',firstName: "James", lastName: "Kim", age: 21, course: "IT", gender: "Male", address: { city: "Seoul", country: "Korea" }, skills: ["C++", "Java", "JavaScript"],profilePic:"1.jpg" },
     { studentId:'UOV15652',firstName: "Emily", lastName: "Jones", age: 20, course: "Computer Science", gender: "Female", address: { city: "New York", country: "USA" }, skills: ["Python", "HTML", "CSS"],profilePic:"2.jpg" },
